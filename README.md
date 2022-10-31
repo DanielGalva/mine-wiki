@@ -1,6 +1,6 @@
-# Mine Wiki
+# Ranking of the best games
 
-This is a repository where you can know more about the legends of Minecraft. And it is also participating of [Hacktoberfest 2022](https://hacktoberfest.com/).
+This is a repository where you can see what is the best games. And it is also participating of [Hacktoberfest 2022](https://hacktoberfest.com/).
 
 What is Hacktoberfest?
 
